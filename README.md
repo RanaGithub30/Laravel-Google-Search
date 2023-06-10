@@ -8,5 +8,5 @@
 
 ## Wikipedia Search
 
-   1) Wikipedia Article serch
+   1) Wikipedia Article search
    2) Random Article Search
