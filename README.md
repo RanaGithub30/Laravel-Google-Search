@@ -10,3 +10,14 @@
 
    1) Wikipedia Article search
    2) Random Article Search
+
+## Youtube Search
+   
+   1) Youtube video search
+   2) Youtube Trending video search
+   3) Youtube Movie Search
+   4) Youtube Gaming
+
+## Stack Overflow
+   
+   1) Search Random Questions

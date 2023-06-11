@@ -10,6 +10,8 @@
 <div class="row p-5">
 	<div class="col-md-12 m-2">
 		<a href="{{ url('/') }}" class="btn btn-primary justify-content-end">Google Search</a>
+		<a href="{{ url('/youtube') }}" class="btn btn-danger justify-content-end">Youtube Search</a>
+		<a href="{{ url('/stack-over-flow') }}" class="btn btn-dark justify-content-end">Stack Overflow Questions</a>
 	</div>
 </div>
 

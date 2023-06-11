@@ -20,3 +20,11 @@ Route::get('/', function () {
 Route::get('/wikipedia', function () {
     return view('wikipedia');
 });
+
+Route::get('/youtube', function () {
+    return view('youtube');
+});
+
+Route::get('/stack-over-flow', function () {
+    return view('stack-over-flow');
+});
